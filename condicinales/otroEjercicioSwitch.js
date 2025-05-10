@@ -3,8 +3,8 @@
 // según el sonido que hace. Por ejemplo, "guau" es un perro,
 // "miau" es un gato, etc.
 // Agrega al menos 4 casos diferentes y un caso por defecto.
-let sonidoAnimal = "sac sac"
-let tipoAnimal
+let sonidoAnimal = "miau"
+
 switch (sonidoAnimal) {
     case "guau":
         console.log("Eres un perro");
