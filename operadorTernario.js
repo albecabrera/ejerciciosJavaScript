@@ -13,3 +13,12 @@ console.log(puedeConducir);
 let numero = 6;
 let numeroImpar = numero % 2 === 1 ? 'El número es impar' : 'El número es par';
 console.log(numeroImpar);
+
+let nombre = "Guido"
+let permiso = nombre === "Guido" ? "Puede entrar" : "No tiene acceso ninguno";
+console.log(permiso);
+
+
+let fitnessStudio = "Telekom Baskets"
+let entryCard = fitnessStudio === "Telekom Baskets" ? "Tarjeta de acceso directo" : "Entrada denegada";
+console.log(entryCard);
