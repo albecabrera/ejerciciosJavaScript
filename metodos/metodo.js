@@ -1,4 +1,4 @@
-// Métodos
+// Métodosf  
 let perro = {
     nombre: 'Manchado',
     ladra: function() {
@@ -12,3 +12,5 @@ perro.ladra();
 
 let texto = 'Hola programador';
 console.log(texto.toUpperCase()); 
+console.log(texto.toLowerCase()); 
+console.log(texto.toLocaleUpperCase()); 
